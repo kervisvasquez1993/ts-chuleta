@@ -3,10 +3,10 @@
     const greet = (name: string): string => `hello ${name}`;
     const saveTheWorld = () => "el mundo esta sarvado.";
 
-    // let myFuntion: Function
+    let myFuntion: Function
     // let myFuntion: (y:number) => number
     // let myFuntion: (y: string) => string
-    let myFuntion: () => string
+    // let myFuntion: () => string
 
     //! myFuntion = 10
     //! console.log(myFuntion)
